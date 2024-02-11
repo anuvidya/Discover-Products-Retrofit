@@ -1,0 +1,7 @@
+<resources>
+    <string name="mapp_name">Discover Products</string>
+    <string name="discover_products">Discover Products</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="add_to_bag">Add to Bag</string>
+</resources>
